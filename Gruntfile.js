@@ -388,7 +388,7 @@ module.exports = function (grunt) {
         },
         pages: {
           options: {
-            remote: 'git@github.com:Cardwise/Redesign.git',
+            remote: 'git@github.com:fortonm/cv.git',
             branch: 'gh-pages'
           }
         }
